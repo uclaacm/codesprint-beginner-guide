@@ -1,12 +1,10 @@
 <img src="logo/codesprint.png">
 
-# CodesprintLA 2020 Beginner's Guide
+# CodesprintLA 2021 Beginner's Guide
 
 ## Important Links
+- [CodeSprint Website](http://codesprintla.com/)
 - [ICPC Facebook Page](http://facebook.com/groups/ucla.icpc/)
-- [Team Competition](http://codesprintla-team.kattis.com)
-- [Individual Competition](http://codesprintla-individual.kattis.com)
-- [Discord Server](https://discord.gg/C73JJyZ)
 - [ACM Membership Portal](http://members.uclaacm.com/login)
 - [Beginner Workshop Slides](https://docs.google.com/presentation/d/13HDIuD5oZoSU759PzYMWrhm-H6_jvJlBQaYbLuN7RMY/edit?usp=sharing)
 - [Kattis Tutorial](https://open.kattis.com/help)
