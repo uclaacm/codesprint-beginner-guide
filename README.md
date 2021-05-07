@@ -1,4 +1,4 @@
-<img src="../logo/codesprint.png">
+<img src="logo/codesprint.png">
 
 # CodesprintLA 2020 Beginner's Guide
 
@@ -34,7 +34,7 @@ If multiple people solve the same number of problems, time penalties act as the 
 - If you have a wrong submission, 20 minutes are added to your time if you eventually solved the problem correctly
 
 An example of tie breaker time penalty:
-<img src="../logo/scoring-table.png">
+<img src="logo/scoring-table.png">
 
 In this example Person B wins the tie breaker, because both Person A and Person B have solved 3 problems, but Person A has a larger time penalty than Person B.
 
