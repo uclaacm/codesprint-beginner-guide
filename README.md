@@ -1,6 +1,6 @@
 <img src="logo/codesprint.png">
 
-# CodesprintLA 2021 Beginner's Guide
+# CodeSprint LA 2021 Beginner's Guide
 
 ## Important Links
 - [CodeSprint Website](http://codesprintla.com/)
