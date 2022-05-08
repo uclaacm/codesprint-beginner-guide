@@ -1,11 +1,10 @@
 <img src="logo/codesprint.png">
 
-# CodeSprint LA 2021 Beginner's Guide
+# CodeSprint LA 2022 Beginner's Guide
 
 ## Important Links
 - [CodeSprint Website](http://codesprintla.com/)
-- [ICPC Facebook Page](http://facebook.com/groups/ucla.icpc/)
-- [ACM Membership Portal](http://members.uclaacm.com/login)
+- [CodeSprint Schedule](https://codesprintla.uclaacm.com/schedule)
 - [Beginner Workshop Slides](https://docs.google.com/presentation/d/13HDIuD5oZoSU759PzYMWrhm-H6_jvJlBQaYbLuN7RMY/edit?usp=sharing)
 - [Kattis Tutorial](https://open.kattis.com/help)
 
@@ -37,7 +36,7 @@ An example of tie breaker time penalty:
 In this example Person B wins the tie breaker, because both Person A and Person B have solved 3 problems, but Person A has a larger time penalty than Person B.
 
 Time penalty calculations:
-- Person A: 84 + 20 (WA 1) + 116 + 118 = 338
+- Person A: 84 + 20 (WA 1) + 116 + 20 (WA 3) + 118 = 358
 - Person B: 46 + 110 + 20 (WA 4) + 106 + 20 (WA 5) + 20 (WA 5) = 322
 
 ## What are problems like?
