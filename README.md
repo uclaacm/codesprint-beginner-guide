@@ -5,7 +5,7 @@
 ## Important Links
 - [CodeSprint Website](http://codesprintla.com/)
 - [CodeSprint Schedule](https://codesprintla.uclaacm.com/schedule)
-- [Beginner Workshop Slides](https://docs.google.com/presentation/d/13HDIuD5oZoSU759PzYMWrhm-H6_jvJlBQaYbLuN7RMY/edit?usp=sharing)
+- [Beginner Workshop Slides](https://docs.google.com/presentation/d/1sqr4ArqdiafP9VzzsnKsHFT8KpxuFZuzap58wuiRZak/edit?usp=sharing)
 - [Kattis Tutorial](https://open.kattis.com/help)
 
 ## Table of Contents
