@@ -1,11 +1,11 @@
-<img src="logo/codesprint.png">
+<img src="logo/codesprint2023.png">
 
-# CodeSprint LA 2022 Beginner's Guide
+# CodeSprint LA 2023 Beginner's Guide
 
 ## Important Links
 - [CodeSprint Website](http://codesprintla.com/)
 - [CodeSprint Schedule](https://codesprintla.uclaacm.com/schedule)
-- [Beginner Workshop Slides](https://docs.google.com/presentation/d/1sqr4ArqdiafP9VzzsnKsHFT8KpxuFZuzap58wuiRZak/edit?usp=sharing)
+- [Beginner Workshop Slides](https://docs.google.com/presentation/d/1sHRvfomwY7RFimva1aAhZQk8K4hB9i9FwYeFs2RLOjk/edit?usp=sharing)
 - [Kattis Tutorial](https://open.kattis.com/help)
 
 ## Table of Contents
@@ -56,7 +56,7 @@ Generally, there are some competitive programming contest problems that cannot b
 After you submit your solution, you will get feedback concerning whether or not you got it right, and if you didn't get it right, it will let you know generally why it failed.
 | Acronym  | Message  | What does it mean? |
 |---|---|---|
-| AC  | Correct Answer  | Congratulations! Your submitted solution is correct!  |
+| AC  | Accepted  | Congratulations! Your submitted solution is correct!  |
 | WA | Wrong Answer  | Your submitted solution doesn't pass one of our test cases, and is therefore wrong  | 
 | TLE | Time Limit Exceeded  | Your submitted solution was too slow |
 | CE |  Compiler Error | Your submitted solution failed to compile  |  
