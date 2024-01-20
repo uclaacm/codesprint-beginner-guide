@@ -158,10 +158,10 @@ Let's say you have a problem that wants you to take an array of integers as inpu
 
 ~~~Python
 # input the number of elements in the array from the first line
-num_elements = int(raw_input())
+num_elements = int(input())
 
 # generate the array using the second line of input
-elements = [int(x) for x in raw_input().split()]
+elements = [int(x) for x in input().split()]
 
 # this where you would implement your solution
 ret = 0
@@ -174,14 +174,14 @@ Let's say you have a problem that wants you to take a 2D array of integers as in
 
 ~~~Python
 # input the number of elements in the array from the first line
-first_line = raw_input()
+first_line = input()
 num_rows = int(first_line.split()[0])
 num_cols = int(first_line.split()[1])
 
 # generate the 2D array using each subsequent line of input
 grid = []
 for i in range(0,num_rows):
-    row = [int(x) for x in raw_input().split()]
+    row = [int(x) for x in input().split()]
     grid.append(row)
 
 # this where you would implement your solution
