@@ -3,7 +3,7 @@
 # Break the Binary Beginner's Guide
 
 ## Important Links
-- [Beginner Workshop Slides](https://tinyurl.com/beginner-workshopw24-slides)
+- [Beginner Workshop Slides](http://tinyurl.com/beginner-workshop-btb)
 - [Kattis Tutorial](https://open.kattis.com/help)
 
 ## Table of Contents
