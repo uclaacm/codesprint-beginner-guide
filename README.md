@@ -1,11 +1,9 @@
-<img src="logo/codesprint2023.png">
+<img src="logo/btb2024.png">
 
-# CodeSprint LA 2023 Beginner's Guide
+# Break the Binary Beginner's Guide
 
 ## Important Links
-- [CodeSprint Website](http://codesprintla.com/)
-- [CodeSprint Schedule](https://codesprintla.uclaacm.com/schedule)
-- [Beginner Workshop Slides](https://docs.google.com/presentation/d/1sHRvfomwY7RFimva1aAhZQk8K4hB9i9FwYeFs2RLOjk/edit?usp=sharing)
+- [Beginner Workshop Slides](https://tinyurl.com/beginner-workshopw24-slides)
 - [Kattis Tutorial](https://open.kattis.com/help)
 
 ## Table of Contents
